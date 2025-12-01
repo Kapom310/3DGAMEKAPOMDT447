@@ -1,0 +1,14 @@
+1. Change Scene:
+   - Hold `L` + Press `1`: Load Level 1
+   - Hold `L` + Press `2`: Load Level 2
+   - Hold `L` + Press `3`: Load Level 3
+   - Hold `L` + Press `4`: Load Level 4
+
+2. Return to Main Menu:
+   - Press `Escape`: Go back to the main menu.
+
+3. Infinite Glider:
+   - Press `G`: Unlock infinite glider usage.
+
+4. Disable Enemies:
+   - Press `K`: Disable all enemies in the scene.
